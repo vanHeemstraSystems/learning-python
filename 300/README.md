@@ -1634,3 +1634,7 @@ These principles apply to ANY programming language and ANY project. You now have
 1. Build a new project from scratch using these principles
 1. Read other people’s code and spot SOLID violations
 1. Keep learning - you’re on the right path! 🌟​​​​​​​​​​​​​​​​
+
+# 100 - 5 Layers of Learning Python
+
+See [README.md](./100/README.md)
