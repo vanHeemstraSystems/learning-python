@@ -2,6 +2,8 @@
 
 Based on the systematic approach to mastering Python through progressive layers of complexity.
 
+- [Quick Reference](./QUICK-REFERENCE.md)
+
 ## Overview
 
 This learning path is structured around 5 progressive layers, each building upon the previous one. The approach emphasizes deep understanding over breadth, ensuring solid foundations before advancing.
